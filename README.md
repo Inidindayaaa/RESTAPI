@@ -1,4 +1,4 @@
- #  KATA MONIVASI HIDUP
+ #  KATA MOTIVASI HIDUP
  - SEMANGATT
  - SEMANGAT
  - semangat
@@ -22,6 +22,7 @@ Jangan ulur waktu.
 
 
 ##
+##### Apapun masalahnya  mie ayam solusinya.!!!
 
 
 <img src = "mie ayam.jfif">   
